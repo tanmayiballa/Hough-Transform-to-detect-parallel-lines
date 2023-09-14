@@ -30,8 +30,8 @@ As it can be seen in the hough space the sinusoidal waves intersect. We can obse
 
 Final Output: Staff of lines detected
 
-![image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/edit/main/detected.png)
+![image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/blob/main/detected_staff.png)
 
 | Hough Plot  | Hough Space |
 | -------  | - |
-| ![Image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/edit/main/houghplot) | ![Image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/edit/main/houghspace) |
+| ![Image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/blob/main/houghplot.png) | ![Image](https://github.com/tanmayiballa/Hough-Transform-to-detect-parallel-lines/blob/main/houghspace.png) |
